@@ -2,6 +2,6 @@
 
 # Athena
 
- We are a robotics team in New Zealand competing in the lightweight league of the [Robocup Junior](https://junior.robocup.org/) soccer robot competition.
+ We're a New Zealand based robotics team competing in the lightweight division of [Robocup Junior](https://junior.robocup.org/) Soccer.
 
  </dev>
